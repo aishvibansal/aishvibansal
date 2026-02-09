@@ -13,7 +13,12 @@
 - Prefer writing clean, modular, and maintainable code over quick hacks  
 
 ---
+## 🌐 Socials:
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishvibansal)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishvibansal@gmail.com)
+
+---
 ## 💼 Experience
 
 **Summer Intern — American Tower, Gurugram**  
@@ -55,8 +60,3 @@ Git · GitHub · Google Cloud Platform · Visual Studio · IntelliJ · Eclipse
 
 ---
 
-## 📫 Contact
-
-- 📧 aishvibansal@gmail.com  
-- 💼 https://linkedin.com/in/aishvibansal  
-- 🧑‍💻 https://github.com/aishvibansal
