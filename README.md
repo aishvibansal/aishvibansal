@@ -1,75 +1,81 @@
-## Hi, I’m Aishvi 👋  
-B.Tech CSE student at MIT Bengaluru
+# Aishvi Bansal | 👩‍💻 Developer
+
+🎓 B.Tech CSE student at Manipal Institute of Technology, Bengaluru  
+📊 CGPA: 8.51
 
 ---
 
-<h3 style="color:#58A6FF;">About</h3>
+## ✨ About Me
 
-I’m a computer science undergraduate interested in backend systems, data processing, and applied machine learning.  
-I enjoy working on problems that involve automation, scalability, and real-world data.
+- Software engineering student with a strong interest in backend systems and data-centric applications  
+- Comfortable with data structures, algorithms, and problem-solving  
+- Experience working with data pipelines and applied machine learning  
+- Prefer writing clean, modular, and maintainable code over quick hacks  
 
 ---
 
-<h3 style="color:#7EE787;">Experience</h3>
+## 💼 Experience
 
 **Summer Intern — American Tower, Gurugram**  
 *May 2025 – July 2025*
 
-- Worked on a Python-based phishing URL detection system  
+- Designed and implemented a Python-based phishing URL detection system  
 - Built modular feature extraction and inference pipelines  
-- Integrated external datasets and REST APIs  
-- Focused on scalability, debugging, and code maintainability  
+- Integrated external datasets and REST APIs to improve robustness  
+- Worked on debugging data issues and improving system reliability  
 
 ---
 
-<h3 style="color:#A371F7;">Projects</h3>
+## 🧩 Projects
 
 **Road Network Digital Twin Automation**  
-Automated pipeline to convert satellite and street imagery into MATLAB-ready digital road models.  
-Worked mainly on large-scale data ingestion, preprocessing, and automation for Indian road networks.
+- Built an automated image-processing pipeline to convert satellite and street imagery into MATLAB-ready road models  
+- Focused on large-scale data ingestion, preprocessing, and automation  
+- Designed the system to support scalable processing for Indian road networks  
 
-**Clutch Education Platform**  
-Built a real-time computer vision system to detect user drowsiness and stress.  
-Focused on frame-level processing and low-latency inference.
+**Clutch Education Platform** *(Python, OpenCV)*  
+- Developed a real-time computer vision system to detect drowsiness and stress  
+- Implemented frame-level processing and signal aggregation for low-latency inference  
+- Prioritized system efficiency and robustness  
 
-**Banking Management System**  
-Backend banking system with role-based access control, transaction logging, and structured SQL schemas.
+**Banking Management System** *(Python, SQL)*  
+- Implemented a backend banking system for secure transaction handling  
+- Added role-based access control and transaction logging  
+- Designed audit-friendly database schemas  
 
 ---
 
-<h3 style="color:#F78166;">Technical Skills</h3>
+## 🛠 Technical Skills
 
 **Languages**  
-Python · Java · C · SQL  
+Java · Python · C · SQL  
 
-**Libraries & Tools**  
+**Web Technologies**  
+JavaScript · HTML · CSS  
+
+**Libraries**  
 Pandas · NumPy · Matplotlib · OpenCV · Scikit-learn · Joblib  
-Git · GitHub · Google Cloud Platform  
 
-**Core Areas**  
-Backend development · Data pipelines · Automation · Applied ML  
-
----
-
-<h3 style="color:#7EE787;">Competitive Programming</h3>
-
-<img src="https://leetcard.jacoblin.cool/aishvibansal?theme=dark&ext=heatmap" />
-
-I regularly practice DSA and problem-solving on LeetCode.
+**Developer Tools**  
+Git · GitHub · Google Cloud Platform · Visual Studio · IntelliJ · Eclipse  
 
 ---
 
-<h3 style="color:#F78166;">Achievements</h3>
+## 🏆 Achievements
 
 - Flipkart GRiD 7.0 Semi-finalist (2025)  
 - HackNite Hackathon Winner (2025)  
 
 ---
 
-<h3 style="color:#58A6FF;">Contact</h3>
+## 📊 Competitive Programming
+
+<img src="https://leetcard.jacoblin.cool/aishvibansal?theme=dark&ext=heatmap" />
+
+---
+
+## 📫 Contact
 
 - 📧 aishvibansal@gmail.com  
 - 💼 https://linkedin.com/in/aishvibansal  
 - 🧑‍💻 https://github.com/aishvibansal
-
-
