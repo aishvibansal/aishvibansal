@@ -1,65 +1,49 @@
-# Hi, I'm Aishvi Bansal 👋
-**Software Engineering Student | B.Tech CSE @ MIT Bengaluru**
+Hi, I’m Aishvi 👋  
 
-I am a software engineering student with hands-on experience in building backend systems, data processing pipelines, and applied machine learning solutions. I focus on writing clean, scalable, and maintainable code, and I enjoy working on problems that involve automation and real-world data.
-
----
-
-## 📌 Featured Projects
-
-### Road Network Digital Twin Automation
-Automated image-processing pipeline that converts satellite and street imagery into MATLAB-ready digital road models, designed for scalability across large Indian road networks.
-
-**Tech:** Python, Image Processing, Data Pipelines
-
-### Clutch Education Platform
-Real-time computer vision system to detect user drowsiness and stress for personalized study recommendations, optimized for low-latency inference.
-
-**Tech:** Python, OpenCV
-
-### Banking Management System
-Backend banking system with role-based access control, secure transaction handling, and audit-friendly database schemas.
-
-**Tech:** Python, SQL
+B.Tech CSE student at MIT Bengaluru.  
+Mostly interested in backend systems, data processing, and applied ML.
 
 ---
 
-## 🛠 Technical Skills
+### Projects
 
-**Languages**
-- Python, Java, C, SQL
+**Road Network Digital Twin Automation**  
+Working on an automated pipeline that converts satellite and street imagery into road models usable in MATLAB.  
+A lot of the work here is around handling large datasets and making the process scalable.
 
-**Core Areas**
-- Backend development
-- Data processing pipelines
-- Applied machine learning
-- Automation and system design
+**Clutch Education Platform**  
+Built a real-time computer vision system to detect drowsiness and stress during study sessions.  
+Focused more on system efficiency and inference flow than on model tuning.
 
-**Libraries & Tools**
-- Pandas, NumPy, Matplotlib
-- OpenCV, Scikit-learn
-- Git, GitHub, GCP
+**Banking Management System**  
+Python + SQL backend for basic banking operations.  
+Includes role-based access, transaction logging, and a structured database design.
 
 ---
 
-## 💼 Experience
-**Summer Intern — American Tower (Gurugram)**  
-Worked on a Python-based phishing URL detection system with modular feature extraction and inference pipelines, integrating external datasets and APIs with a focus on scalability and reliability.
+### Experience
+
+**Summer Intern — American Tower (2025)**  
+Worked on a phishing URL detection system in Python.  
+Spent most of the time improving feature extraction, cleaning up pipelines, and making the code easier to scale and maintain.
 
 ---
 
-## 🏆 Achievements
-- Flipkart GRiD 7.0 Semi-finalist (2025)
-- HackNite Hackathon Winner (2025)
+### Skills (things I actually use)
+- Python, Java, SQL  
+- Git, GitHub  
+- Pandas, NumPy, OpenCV  
+- Basic ML with scikit-learn  
 
 ---
 
-## 📫 Connect
-- LinkedIn: linkedin.com/in/aishvibansal
-- GitHub: github.com/aishvibansal
-- Email: aishvibansal@gmail.com
+### Achievements
+- Flipkart GRiD 7.0 Semi-finalist  
+- HackNite Hackathon winner
 
+---
 
-## 📫 Contact
-- LinkedIn: link
-- Email: your@email.com
+You can reach me at:  
+aishvibansal@gmail.com  
+LinkedIn: linkedin.com/in/aishvibansal
+
