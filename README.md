@@ -1,49 +1,93 @@
-Hi, I’m Aishvi 👋  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Aishvi%20Bansal&fontSize=38&fontColor=ffffff" />
 
-B.Tech CSE student at MIT Bengaluru.  
-Mostly interested in backend systems, data processing, and applied ML.
+<p align="center">
+🎓 B.Tech CSE @ MIT Bengaluru &nbsp;•&nbsp; 💻 Software Engineering Student
+</p>
 
 ---
 
-### Projects
+<h2 style="color:#58A6FF;">About</h2>
+
+I’m a B.Tech CSE student at MIT Bengaluru.  
+I mostly work on backend systems, data processing pipelines, and applied ML projects.
+
+I care more about clean, maintainable code and system design than just getting things to work once.
+
+---
+
+<h2 style="color:#7EE787;">Experience</h2>
+
+**Summer Intern — American Tower (Gurugram)**  
+*May 2025 – July 2025*
+
+- Worked on a Python-based phishing URL detection system  
+- Built modular feature extraction and inference pipelines  
+- Integrated external datasets and REST APIs  
+- Focused on scalability, debugging data issues, and code quality  
+
+---
+
+<h2 style="color:#A371F7;">Projects</h2>
 
 **Road Network Digital Twin Automation**  
-Working on an automated pipeline that converts satellite and street imagery into road models usable in MATLAB.  
-A lot of the work here is around handling large datasets and making the process scalable.
+Automated pipeline to convert satellite and street imagery into MATLAB-ready digital road models.  
+Main challenges were large-scale data ingestion, preprocessing, and automation for Indian road networks.
+
+**Tech:** Python, Image Processing, Data Pipelines
+
+---
 
 **Clutch Education Platform**  
-Built a real-time computer vision system to detect drowsiness and stress during study sessions.  
-Focused more on system efficiency and inference flow than on model tuning.
+Real-time computer vision system to detect user drowsiness and stress during study sessions.  
+Worked on frame-level processing and low-latency inference rather than heavy model tuning.
+
+**Tech:** Python, OpenCV
+
+---
 
 **Banking Management System**  
-Python + SQL backend for basic banking operations.  
-Includes role-based access, transaction logging, and a structured database design.
+Backend system for basic banking operations with role-based access control, transaction logging, and structured SQL schemas.
+
+**Tech:** Python, SQL
 
 ---
 
-### Experience
+<h2 style="color:#F78166;">Technical Skills</h2>
 
-**Summer Intern — American Tower (2025)**  
-Worked on a phishing URL detection system in Python.  
-Spent most of the time improving feature extraction, cleaning up pipelines, and making the code easier to scale and maintain.
+**Languages**
+- Python, Java, C, SQL
 
----
+**Core Areas**
+- Backend development  
+- Data processing and automation  
+- Applied machine learning  
+- System design fundamentals  
 
-### Skills (things I actually use)
-- Python, Java, SQL  
-- Git, GitHub  
-- Pandas, NumPy, OpenCV  
-- Basic ML with scikit-learn  
-
----
-
-### Achievements
-- Flipkart GRiD 7.0 Semi-finalist  
-- HackNite Hackathon winner
+**Libraries & Tools**
+- Pandas, NumPy, Matplotlib  
+- OpenCV, Scikit-learn, Joblib  
+- Git, GitHub, GCP  
 
 ---
 
-You can reach me at:  
-aishvibansal@gmail.com  
-LinkedIn: linkedin.com/in/aishvibansal
+<h2 style="color:#7EE787;">Competitive Programming</h2>
+
+<img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo&ext=heatmap" />
+
+I regularly practice DSA and problem-solving on LeetCode.
+
+---
+
+<h2 style="color:#F78166;">Achievements</h2>
+
+- Flipkart GRiD 7.0 Semi-finalist (2025)  
+- HackNite Hackathon Winner (2025)  
+
+---
+
+<h2 style="color:#58A6FF;">Contact</h2>
+
+- 📧 aishvibansal@gmail.com  
+- 💼 https://linkedin.com/in/aishvibansal  
+- 🧑‍💻 https://github.com/aishvibansal
 
