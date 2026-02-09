@@ -26,25 +26,6 @@
 
 ---
 
-## 🧩 Projects
-
-**Road Network Digital Twin Automation**  
-- Built an automated image-processing pipeline to convert satellite and street imagery into MATLAB-ready road models  
-- Focused on large-scale data ingestion, preprocessing, and automation  
-- Designed the system to support scalable processing for Indian road networks  
-
-**Clutch Education Platform** *(Python, OpenCV)*  
-- Developed a real-time computer vision system to detect drowsiness and stress  
-- Implemented frame-level processing and signal aggregation for low-latency inference  
-- Prioritized system efficiency and robustness  
-
-**Banking Management System** *(Python, SQL)*  
-- Implemented a backend banking system for secure transaction handling  
-- Added role-based access control and transaction logging  
-- Designed audit-friendly database schemas  
-
----
-
 ## 🛠 Technical Skills
 
 **Languages**  
