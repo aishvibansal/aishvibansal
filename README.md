@@ -31,7 +31,7 @@ CGPA: 8.51
 
 ---
 
-## 📊 Competitive Programming
+##  Competitive Programming
 
 <img src="https://leetcard.jacoblin.cool/aishvibansal?theme=dark&ext=heatmap" />
 
