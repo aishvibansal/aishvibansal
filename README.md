@@ -1,11 +1,11 @@
 # Aishvi Bansal | 👩‍💻 Developer
 
-🎓 B.Tech CSE student at Manipal Institute of Technology, Bengaluru  
-📊 CGPA: 8.51
+B.Tech CSE student at Manipal Institute of Technology, Bengaluru  
+CGPA: 8.51
 
 ---
 
-## ✨ About Me
+##  About Me
 
 - Software engineering student with a strong interest in backend systems and data-centric applications  
 - Comfortable with data structures, algorithms, and problem-solving  
@@ -13,13 +13,13 @@
 - Prefer writing clean, modular, and maintainable code over quick hacks  
 
 ---
-## 🌐 Socials:
+##  Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aishvibansal)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishvibansal@gmail.com)
 
 ---
-## 💼 Experience
+##  Experience
 
 **Summer Intern — American Tower, Gurugram**  
 *May 2025 – July 2025*
@@ -28,29 +28,6 @@
 - Built modular feature extraction and inference pipelines  
 - Integrated external datasets and REST APIs to improve robustness  
 - Worked on debugging data issues and improving system reliability  
-
----
-
-## 🛠 Technical Skills
-
-**Languages**  
-Java · Python · C · SQL  
-
-**Web Technologies**  
-JavaScript · HTML · CSS  
-
-**Libraries**  
-Pandas · NumPy · Matplotlib · OpenCV · Scikit-learn · Joblib  
-
-**Developer Tools**  
-Git · GitHub · Google Cloud Platform · Visual Studio · IntelliJ · Eclipse  
-
----
-
-## 🏆 Achievements
-
-- Flipkart GRiD 7.0 Semi-finalist (2025)  
-- HackNite Hackathon Winner (2025)  
 
 ---
 
