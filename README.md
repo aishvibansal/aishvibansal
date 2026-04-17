@@ -1,7 +1,6 @@
 # Aishvi Bansal | 👩‍💻 Developer
 
-B.Tech CSE student at Manipal Institute of Technology, Bengaluru  
-CGPA: 8.51
+Pre - final year B.Tech CSE student at Manipal Institute of Technology, Bengaluru  
 
 ---
 
