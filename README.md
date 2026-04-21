@@ -24,16 +24,16 @@ Interested in backend systems, data pipelines, and writing code that's clean eno
 
 ### Experience
 
-**Summer Intern — American Tower** *(May–Jul 2025)*  
-Built a phishing URL detection system — modular feature extraction pipelines, REST API integrations, cut preprocessing latency by 25%.
+**Summer Intern - American Tower** *(May–Jul 2025)*  
+Built a phishing URL detection system - modular feature extraction pipelines, REST API integrations, cut preprocessing latency by 25%.
 
 ---
 
 ### Competitions
 
-- Top 15 / 350+ teams — HackBricks (Databricks × ACM)
-- Semi-finalist — Flipkart GRiD 7.0 (160,000+ participants)
-- Ranked 6th / 200+ teams — HackNite
+- Top 15 / 350+ teams - HackBricks (Databricks × ACM)
+- Semi-finalist - Flipkart GRiD 7.0 (160,000+ participants)
+- Ranked 6th / 200+ teams - HackNite
 
 ---
 
